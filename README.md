@@ -1,0 +1,2 @@
+# python_maru_batsu_game
+Pythonの練習にコマンドラインで遊べるシンプルなマルバツゲームを作成
